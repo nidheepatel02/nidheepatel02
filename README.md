@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, My Name Nidhee Patel</h1>
+<h1 align="left">Hi 👋, My Name is Nidhee Patel</h1>
 <h3 align="left">Software Developer trying to do better day-by-day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidheepatel02&label=Profile%20views&color=0e75b6&style=flat" alt="nidheepatel02" /> </p>
