@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidheepatel02&label=Profile%20views&color=0e75b6&style=flat" alt="nidheepatel02" /> </p>
 
-- 🌱 Trying to collect more knowledge about current tools and languages
+- 🌱 Gathering knowledge about current tools and languages
 
 - ✉ How to reach me **nidheep2010@gmail.com**
 
