@@ -5,7 +5,7 @@
 
 - 🌱 Gathering knowledge about current tools and languages
 
-- ✉ How to reach me **nidheep2010@gmail.com**
+- ✉ You can reach to me at **nidheep2010@gmail.com**
 
 <h3 align="left">Social</h3>
 <p align="left">
