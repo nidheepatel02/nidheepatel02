@@ -5,8 +5,6 @@
 
 - 🌱 Trying to collect more knowledge about current tools and languages
 
-- 👉 My projects are available at [Personal Portfolio](https://github.com/nidheepatel02/Portfolio)
-
 - ✉ How to reach me **nidheep2010@gmail.com**
 
 <h3 align="left">Social</h3>
